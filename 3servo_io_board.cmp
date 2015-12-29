@@ -1,0 +1,31 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 12/26/2015 11:43:43 PM
+
+BeginCmp
+TimeStamp = /567F5F66;
+Reference = K1;
+ValeurCmp = INPUT;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /567F6308;
+Reference = P1;
+ValeurCmp = POW;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /567F6A09;
+Reference = P2;
+ValeurCmp = OUT_8;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /567F40D7;
+Reference = Q1;
+ValeurCmp = NPN;
+IdModule  = TO92;
+EndCmp
+
+EndListe
